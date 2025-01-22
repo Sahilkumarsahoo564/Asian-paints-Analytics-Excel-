@@ -81,9 +81,12 @@ Key Columns:
 ---
 
 ## **Excel Dashboard Features**
-   -Pie Chart: Shows the distribution of charges across different domains.
-   -Line Chart: Likely represents trends in charges over time for various content types.
-   -Bar Chart: Presents financial health indicators.
+   **Pie Chart**
+   -Shows the distribution of charges across different domains.
+   **Line Chart**
+   -Likely represents trends in charges over time for various content types.
+   **Bar Chart**
+   -Presents financial health indicators.
    -Includes data on shipments like status (delivered, not delivered, not paid), weight, and charges.
 
 ---
