@@ -1,7 +1,7 @@
 # Asian paint's Analytics: Navigating the Complexities of Manufacturing Operations
 
 ---
-![image](https://github.com/user-attachments/assets/d890c4d9-0e14-45ee-8b09-abcd106d5c0a)
+![Image](https://github.com/user-attachments/assets/07b2a7e8-1734-4b57-812d-85b305a1f6dd)
 
 ---
 
