@@ -10,7 +10,7 @@ Project link - https://docs.google.com/spreadsheets/d/1MaRQOwdu7z6vecv_a6LchU4Dn
 ---
 ## **Project Overview**
 
-Asian paint's Analytics is an Excel-based analytical project that dives deep into manufacturing datasets to uncover insights into manufacturing operations,payment and shipment details of the company,membership duration and employee details. The project showcases how Excel can be used for data cleaning, analysis, visualization, and creating interactive dashboards to address real-world aviation challenges.
+Asian paint's Analytics is an Excel-based analytical project that dives deep into manufacturing datasets to uncover insights into manufacturing operations,payment and shipment details of the company,membership duration and employee details. The project showcases how Excel can be used for data cleaning, analysis, visualization, and creating interactive dashboards to address real-world manufacturing operation challenges.
 
 ---
 
